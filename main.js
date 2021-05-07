@@ -1,1 +1,1 @@
-const product = 'Socks'
+const app = Vue.createapp({
